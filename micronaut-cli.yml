@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.simon
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle
+features: [annotation-api, app-name, aws-lambda, aws-lambda-custom-runtime, aws-v2-sdk, dynamodb, graalvm, gradle, http-client, jackson-databind, junit, kotlin, kotlin-build, logback, micronaut-build, readme, shade, yaml]
